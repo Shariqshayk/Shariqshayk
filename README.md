@@ -1,7 +1,7 @@
 ### Hi there. I'm Shariq 👋
 
 
-- 🌱 I’m currently learning Data Science and developing my skills, becoz gaining knowledge is exciting and a perpetual task :book:
+- 🌱 I’m currently learning Data Science and developing my skills, becoz gaining knowledge is exciting :book:
 - 📫 How to reach me:
   - :office: [LinkedIn](https://www.linkedin.com/in/shariqshaikh72/)
   - :e-mail: Shariqshaikh.72@gmail.com
