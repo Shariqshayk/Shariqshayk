@@ -1,6 +1,5 @@
 ### Hi there. I'm Shariq 👋
 
-**Shariqshayk/Shariqshayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🌱 I’m currently learning Data Science and developing my skills, becoz gaining knowledge is exciting and a perpetual task :book:
 - 📫 How to reach me:
